@@ -1,2 +1,2 @@
-# dip98.github.io
+# Dipper98
 My website!
