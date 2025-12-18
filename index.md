@@ -1,2 +1,3 @@
 # Dipper98
-My website!
+Coding Qualiy Programs since 2022.
+
