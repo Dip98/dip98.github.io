@@ -7,4 +7,4 @@ I am a young coder that makes mainly games. I know a little bit of HTML, CSS, JS
 My top games include <a href = "https://www.khanacademy.org/computer-programming/glitch-game/4773928902115328">Glitch</a> and <a href = "https://dipper98.itch.io/starlight">Starlight</a>. Glitch is a platformer with a twist, while Starlight is a sci-fi first person shooter.
 
 # Contact
-The best place to contact me is via discord. You can friend request me at this username: dippinsauce98. You can also try to contact me via Khan Academy or GitHub, but my response rate will is far worse.
+The best place to contact me is via discord. You can friend request me at this username: dippinsauce98. You can also try to contact me via Khan Academy or GitHub, but my response rate is far worse.
